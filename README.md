@@ -7,6 +7,7 @@ Additionally, a robust search functionality enables users to conveniently explor
 ## Table of Contents
 
 - [Features](#features)
+- [Backend](#backend)
 - [Installation](#installation)
 
 ## Features
@@ -25,7 +26,15 @@ Additionally, a robust search functionality enables users to conveniently explor
 
 7.Payment Functionality (In Development):
 
-8.Search Functionality:
+8.Search Functionality
+
+## Backend
+
+- Node.js
+- Express.js (Version 4.18.2)
+- Knex.js (Version 2.5.1) - SQL query builder for Node.js
+- SQLite (Version 5.0.1) - Database engine
+- SQLite3 (Version 5.1.6) - SQLite3 bindings for Node.js
 
 ## Installation
 
