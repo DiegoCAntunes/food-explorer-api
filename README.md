@@ -27,8 +27,6 @@ Additionally, a robust search functionality enables users to conveniently explor
 
 8.Search Functionality:
 
-9.conveniently explore plates by name or ingredients.
-
 ## Installation
 
 1. **Clone the Repository**
